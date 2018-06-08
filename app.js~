@@ -1,4 +1,3 @@
-// Test change for git testing
 // BUDGET CONTROLLER
 var budgetController = (function () {
 
